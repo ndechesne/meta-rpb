@@ -19,6 +19,7 @@ CORE_IMAGE_BASE_INSTALL += " \
     networkmanager \
     networkmanager-nmtui \
     coreutils \
+    glmark2 \
     gps-utils \
     gpsd \
     gptfdisk \
